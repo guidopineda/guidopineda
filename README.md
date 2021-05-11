@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source, Linux, Containers, Virtualization and Security
 - 🌱 I’m currently learning Containers Orchestration with Kubernetes
 - 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me guido.pineda.reyes <at> yahoo.com
+- 📫 How to reach me guido.pineda.reyes (at) yahoo.com
 
 <!---
 guidopineda/guidopineda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
